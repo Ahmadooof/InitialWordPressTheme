@@ -1,5 +1,5 @@
 <?php get_header(); ?>
 
-    This is a test
+    This is a test content
 
 <?php get_footer(); ?>
