@@ -1,0 +1,12 @@
+
+
+/* Start Footer */
+
+.footer{
+    background-color: dimgray;
+    color: white;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
