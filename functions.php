@@ -40,7 +40,9 @@
         register_nav_menu('bootstrap-nav-menu', __('Navigation Bar'));
     }
 
-    wp_nav_menu();
+    function show_menu(){
+        wp_nav_menu();
+    }
 
     /*
     ** 
